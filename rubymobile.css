@@ -1,0 +1,252 @@
+
+@-moz-document domain(gps.owndomain_350) {
+Github: github.com/GoogleCloudPlatform/golang-samples/
+install: go1.21.6.linux-amd64
+export PATH=$PATH:/usr/go/bin/MOBILE
+/* in domain & sub domain */
+}
+
+@-moz-document domain(gps_style.tropical_max) {
+/* in domain & sub domain */
+}
+
+@-moz-document domain(gps_style.dance_max) {
+/* in domain & sub domain */
+}
+
+@-moz-document url(gps.localz_30-50%) {
+/* page url */
+}
+
+@-moz-document url(gps.selflocalized_100-150%) {
+/* page url */
+}
+
+@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {
+/* page url */
+}
+
+@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock
+/* page url */
+}
+
+@-moz-document url(gps_style.degitalweight_200-150%) {
+/* page url */
+}
+
+@-moz-document url(gps.degitalweight_150-0%) {
+/* page url */
+}
+
+@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {
+/* page url */
+}
+
+@-moz-document url-prefix(URL_users_100%) {
+/* http url start browsing page */
+}
+
+@-moz-document url-prefix(mp3_users_100-1%) {
+/* http url start browsing page */
+}
+
+@-moz-document url-prefix(mp3_users_100-1%) {
+/* http url start browsing page */
+}
+
+font-weight: 500;
+font-weight: initials;
+
+
+  /*
+/*iphone 15*/
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 15) {
+/*here is for iphone*/
+} 
+/*Galaxy*/
+@media only screen 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Galaxy*/
+}
+
+/*Arrows*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Arrows*/
+}
+
+/*Experia*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Experia*/
+}
+  /**/
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 12) {
+/*here is for iPad*/
+
+
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 7) {
+/*here is for sphonez*/
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1-7) {
+/*here is for all_touchdevices_m@ep*/
+}
+
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 5) {
+/*here is for ic_felica*/
+}
+
+/*Mint*/
+/*here is for mini,nano,mint*/
+@media only screen 
+  and (min-device-width: 568px) 
+  and (max-device-hight: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 13) {
+/*here is for schim,e_schim*/
+}
+
+@media only screen 
+  and (min-device-width: 37px) 
+  and (min-device-width: 37px) 
+  and (device-width: 222px) 
+  and (device-width: 222px) 
+  and (max-device-width: 370px) 
+  and (max-device-width: 370px) 
+  and (-webkit-min-device-pixel-ratio: 7) {
+/*here is for paid_qrcode_eticket*/
+}
+
+/*Instagram*/
+@media only screen 
+  and (max-device-width: 1080px) 
+  and (max-device-width: 1350px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+/*here is for insta*/
+}
+
+/* JP Task TRUST CASHss credit */
+/*ToDo APP captain_cook_todo*/
+@media only screen 
+  and (max-device-width: 1080px) 
+  and (max-device-width: 1350px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+/*here is for task_reminder*/
+}
+
+/*albert = short work short life *//* much str *//*one day liscense*/
+/*similarity*/
+/*1 km ~> walk not = work shortly*//*a day*/
+
+/*Cover hearts*/ /*t_ink*/ /*tinkle wrincle*/
+/*e_sim for Shene/senorita in shi*/ /*in_shinai*/ /*initialized_itineraryz*/ /*/
+/**/
+/*here is for mini,nano_schim,e_schim*/
+@media only screen 
+  and (min-device-width: 30px) 
+  and (min-device-hight: 50px) 
+  and (max-device-width: 100px) 
+  and (max-device-width: 100px) 
+  and (-webkit-min-device-pixel-ratio: 7) {
+/*here is for digital_smartwatch*/
+}
+@media only screen 
+  and (max-device-width: 100px) 
+  and (max-device-width: 100px) 
+  and (-webkit-min-device-pixel-ratio: 0.0-1.5) {
+/*here is for eat_log*/
+}
+
+}
+  */
+
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 3000px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+#bg, #bg2, #bg3 {
+	x-index: -5;
+  	y-index: -5;
+  	  z-index: -5;
+	position:fixed;
+	    padding:0 0 0 0;
+
+}
+   
+#menu-right
+   {
+   	opacity: 0.98;
+   }
+#id1
+	{background-color: rgba( 255, 255, 255, 0.7);
+   color: darkblue;
+   font-size: 15px;
+	}
+
+#view3_
+	{
+   background-color: rgba( 255, 255, 255, 0.50 );
+   color: darkblue;
+   font-size: 18px;
+	}
+
+	#message1  {  
+	width: 100%;
+	 border: 1px dashed #999;
+       background-color: rgba( 255, 255, 255, 0.5 );
+   color: skyblue;
+}  
+
+
+	#message2   {  
+	width: 100%;
+    border: 1px dashed #999;
+       background-color: rgba( 255, 255, 255, 0.85 );
+   color: black;
+}  
+
+	#message3   {  
+	width: 100%;
+    border: 1px dashed #999;
+       background-color: rgba( 255, 255, 255, 0.5 );
+   color: black;
+}  
+
+  #menu-left {
+ 	font-family:"Times New Roman", "Century Gothic", "MS Gothic";
+
+ }
+
+
+img {
+  display: block;
+}
+ .ui-panel-inner {;:}
+
+#menu1 {;:}
+
+ .ui-content {padding:0;}
+
