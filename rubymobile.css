@@ -111,7 +111,6 @@ font-weight: initials;
 /*here is for all_touchdevices_m@ep*/
 }
 
-
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
@@ -219,7 +218,6 @@ font-weight: initials;
    color: skyblue;
 }  
 
-
 	#message2   {  
 	width: 100%;
     border: 1px dashed #999;
@@ -235,7 +233,7 @@ font-weight: initials;
 }  
 
   #menu-left {
- 	font-family:"Times New Roman", "Century Gothic", "MS Gothic";
+ 	font-family:"Century Gothic", "MS Gothic";
 
  }
 
