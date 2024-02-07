@@ -1,8 +1,8 @@
-
-@-moz-document domain(gps.owndomain_350) {
 Github: github.com/GoogleCloudPlatform/golang-samples/
 install: go1.21.6.linux-amd64
 export PATH=$PATH:/usr/go/bin/MOBILE
+
+@-moz-document domain(gps.owndomain_350) {
 /* in domain & sub domain */
 }
 
