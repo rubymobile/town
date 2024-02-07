@@ -1,9 +1,7 @@
-@-moz-document domain(gps.owndomain_350) {
 Github: github.com/GoogleCloudPlatform/golang-samples/
 install: go1.21.6.linux-amd64
-export PATH=$PATH:/usr/go/bin/MOBILE}
-@-moz-document domain(gps_style.tropical_max) {}
-@-moz-document domain(gps_style.dance_max) {}
+export PATH=$PATH:/usr/go/bin/MOBILE
+@-moz-document domain(gps.owndomain_350) {}
 @-moz-document url(gps.localz_30-50%) {}
 @-moz-document url(gps.selflocalized_100-150%) {}
 @-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
