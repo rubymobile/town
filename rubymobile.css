@@ -1,122 +1,66 @@
-
 @-moz-document domain(gps.owndomain_350) {
 Github: github.com/GoogleCloudPlatform/golang-samples/
 install: go1.21.6.linux-amd64
-export PATH=$PATH:/usr/go/bin/MOBILE
-/* in domain & sub domain */
-}
-
-@-moz-document domain(gps_style.tropical_max) {
-/* in domain & sub domain */
-}
-
-@-moz-document domain(gps_style.dance_max) {
-/* in domain & sub domain */
-}
-
-@-moz-document url(gps.localz_30-50%) {
-/* page url */
-}
-
-@-moz-document url(gps.selflocalized_100-150%) {
-/* page url */
-}
-
-@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {
-/* page url */
-}
-
-@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock
-/* page url */
-}
-
-@-moz-document url(gps_style.degitalweight_200-150%) {
-/* page url */
-}
-
-@-moz-document url(gps.degitalweight_150-0%) {
-/* page url */
-}
-
-@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {
-/* page url */
-}
-
-@-moz-document url-prefix(URL_users_100%) {
-/* http url start browsing page */
-}
-
-@-moz-document url-prefix(mp3_users_100-1%) {
-/* http url start browsing page */
-}
-
-@-moz-document url-prefix(mp3_users_100-1%) {
-/* http url start browsing page */
-}
-
+export PATH=$PATH:/usr/go/bin/MOBILE}
+@-moz-document domain(gps_style.tropical_max) {}
+@-moz-document domain(gps_style.dance_max) {}
+@-moz-document url(gps.localz_30-50%) {}
+@-moz-document url(gps.selflocalized_100-150%) {}
+@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
+@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
+@-moz-document url(gps_style.degitalweight_200-150%) {}
+@-moz-document url(gps.degitalweight_150-0%) {}
+@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {}
+@-moz-document url-prefix(URL_users_100%) {}
+@-moz-document url-prefix(mp3_users_100-1%) {}
+@-moz-document url-prefix(mp3_users_100-1%) {}
 font-weight: 500;
 font-weight: initials;
-
-
   /*
 /*iphone 15*/
   @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 15) {
-/*here is for iphone*/
-} 
+/*here is for iphone*/} 
 /*Galaxy*/
 @media only screen 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 7) {
-/*here is for Galaxy*/
-}
-
+/*here is for Galaxy*/}
 /*Arrows*/
 @media only screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 7) {
-/*here is for Arrows*/
-}
-
+/*here is for Arrows*/}
 /*Experia*/
 @media only screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 7) {
-/*here is for Experia*/
-}
+/*here is for Experia*/}
   /**/
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 12) {
 /*here is for iPad*/
-
-
-
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 7) {
-/*here is for sphonez*/
-}
-
+/*here is for sphonez*/}
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 1-7) {
-/*here is for all_touchdevices_m@ep*/
-}
+/*here is for all_touchdevices_m@ep*/}
 
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 5) {
-/*here is for ic_felica*/
-}
+  and (-webkit-min-device-pixel-ratio: 5) {/*There is for ic_felica*/}
 
 /*Mint*/
 /*here is for mini,nano,mint*/
@@ -135,7 +79,7 @@ font-weight: initials;
   and (max-device-width: 370px) 
   and (max-device-width: 370px) 
   and (-webkit-min-device-pixel-ratio: 7) {
-/*here is for paid_qrcode_eticket*/
+/*There is for paid_qrcode_eticket*/
 }
 
 /*Instagram*/
@@ -146,14 +90,13 @@ font-weight: initials;
 /*here is for insta*/
 }
 
-/* JP Task TRUST CASHss credit */
+/* Task TRUST CASHss credit */
 /*ToDo APP captain_cook_todo*/
 @media only screen 
   and (max-device-width: 1080px) 
   and (max-device-width: 1350px) 
   and (-webkit-min-device-pixel-ratio: 3) {
-/*here is for task_reminder*/
-}
+/*here is for task_reminder*/　}
 
 /*albert = short work short life *//* much str *//*one day liscense*/
 /*similarity*/
@@ -168,16 +111,11 @@ font-weight: initials;
   and (min-device-hight: 50px) 
   and (max-device-width: 100px) 
   and (max-device-width: 100px) 
-  and (-webkit-min-device-pixel-ratio: 7) {
-/*here is for digital_smartwatch*/
-}
+  and (-webkit-min-device-pixel-ratio: 7) {/*here is for digital_smartwatch*/}
 @media only screen 
   and (max-device-width: 100px) 
   and (max-device-width: 100px) 
-  and (-webkit-min-device-pixel-ratio: 0.0-1.5) {
-/*here is for eat_log*/
-}
-
+  and (-webkit-min-device-pixel-ratio: 0.0-1.5) {/*here/there is for eat_log*/}
 }
   */
 
@@ -186,27 +124,27 @@ font-weight: initials;
   and (max-device-width: 3000px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
-#bg, #bg2, #bg3 { overscroll-behavior-x: 0.001;
-    x-index: -0.003;
-    y-index: -0.003;
-    z-index: -0.003;
-	position:fixed;
-	    padding:0 0 0 0;
-}
-   
-#menu-right
-   {
-   	opacity: 0.98;
-   }
+#bg, #bg2, #bg3 {
+    font-family:"Century Gothic", "MS Gothic"
+    overscroll-behavior-x: 0.001;}
+#bg, #bg2, #bg3 {
+  x-index: 00001.11;
+  y-index: 00001.11;
+  z-index: 00001.11;
+  position:fixed;
+ padding:10 10 10 10;
+
+#menu {font-family:"Century Gothic", "MS Gothic"}
+#menu {font-family:"Century Gothic", "MS Gothic"; opacity: 0.88;}
 #id1
-	{background-color: rgba( 255, 255, 255, 0.7);
+{background-color: rgba( 255, 255, 255, 0);
    color: darkblue;
    font-size: 15px;
-	}
+font-family:"Century Gothic", "MS Gothic"}
 
 #view3_
-	{
-   background-color: rgba( 255, 255, 255, 0.50 );
+	{font-family:"Century Gothic", "MS Gothic"
+   background-color: rgba( 255, 255, 255, 0.10 );
    color: darkblue;
    font-size: 18px;
 	}
@@ -217,7 +155,6 @@ font-weight: initials;
        background-color: rgba( 255, 255, 255, 0.5 );
    color: skyblue;
 }  
-
 	#message2   {  
 	width: 100%;
     border: 1px dashed #999;
@@ -229,21 +166,27 @@ font-weight: initials;
 	width: 100%;
     border: 1px dashed #999;
        background-color: rgba( 255, 255, 255, 0.5 );
-   color: black;
-}  
+   color: black;}  
 
-  #menu-left {
- 	font-family:"Century Gothic", "MS Gothic";
-
- }
-
-
-img {
-  display: block;
-}
+img { display: block;}
  .ui-panel-inner {;:}
 
-#menu1 {;:}
+#menu1 {font-family:"Century Gothic", "MS Gothic":}
+ .ui-content {padding:11;}
 
- .ui-content {padding:0;}
+html {  font-family:"Century Gothic", "MS Gothic":
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  display: table;}
+
+body {
+  font-family:"Century Gothic", "MS Gothic":
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;}
+.ui-content {padding: 10;}
 
