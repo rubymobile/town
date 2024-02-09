@@ -14,54 +14,30 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 @-moz-document url-prefix(mp3_users_100-1%) {}
 font-weight: 500;
 font-weight: initials;
-  /*
-/*iphone 15*/
-  @media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 15) {
-/*here is for iphone*/} 
-/*Galaxy*/
-@media only screen 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for Galaxy*/}
-/*Arrows*/
+
+/*Huawei*/
 @media only screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 7) {
-/*here is for Arrows*/}
-/*Experia*/
+/*here is for HUA-WEI P30,40 Pro, lite, nova, Premium*/
+}
 @media only screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for Experia*/}
-/*Reno*/
+  and (min-device-width: 454px) 
+  and (min-device-hight: 454px) 
+  and (max-device-width: 466px) 
+  and (max-device-width: 466px) 
+  and (-webkit-min-device-pixel-ratio: 7) {
+/*here is for huawei digital_smartwatch gt, amoled */
+}
 @media only screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for Reno*/}
-/*Redmi*/
-@media only screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for Redmi*/}
-/*Google Pixel*/
-@media only screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for  Pixel/}
-/*Moto*/
-@media only screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 7) {
-/*here is for Moto*/}
+  and (min-device-width: 280px) 
+  and (min-device-hight: 454px) 
+  and (max-device-width: 466px) 
+  and (max-device-width: 466px) 
+  and (-webkit-min-device-pixel-ratio: 7) {
+/*here is for huawei digital_smartwatch D*/
+}
   /**/
 @media only screen 
   and (min-device-width: 768px) 
@@ -112,7 +88,7 @@ font-weight: initials;
 /*here is for insta*/
 }
 
-/* Task TRUST credit */
+/* Task credit */
 /*ToDo APP captain_cook_todo*/
 @media only screen 
   and (max-device-width: 1080px) 
@@ -124,8 +100,7 @@ font-weight: initials;
 /*similarity*/
 /*1 km --------------------------> walk not == work shortly*//*a day*/
 
-/*Cover hearts*/ /*t_ink*/ /*tinkle wrincle*/
-/*in_shinai*/ /*initialized_itineraryz*/ /*/
+/*in_shinai*/ /*initialized_itineraryz*/ 
 /**/
 /*for mini,nano_schim,e_schim*/
 @media only screen 
