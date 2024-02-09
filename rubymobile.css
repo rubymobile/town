@@ -38,6 +38,30 @@ font-weight: initials;
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 7) {
 /*here is for Experia*/}
+/*Reno*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Reno*/}
+/*Redmi*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Redmi*/}
+/*Google Pixel*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for  Pixel/}
+/*Moto*/
+@media only screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 7) {
+/*here is for Moto*/}
   /**/
 @media only screen 
   and (min-device-width: 768px) 
