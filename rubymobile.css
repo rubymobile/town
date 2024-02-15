@@ -12,6 +12,11 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 @-moz-document url-prefix(URL_users_100%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
+@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
+@-moz-document url_anyplace (stable_proxy) { rotation: off;　}
+@-moz-document url_anyplace (stable_proxy) { reverse:rotation off;　}
+
+
 font-weight: 500;
 font-weight: initials;
   /*
