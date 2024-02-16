@@ -6,11 +6,11 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 /* in domain & sub domain */
 }
 
-@-moz-document url(gps.localz_30-50%) {
+@-moz-document url_anyplace_prefix(gps.localz_100-200%) {
 /* page url */
 }
 
-@-moz-document url(gps.selflocalized_100-150%) {
+@-moz-document url_anyplace_prefix(gps.selflocalized_100-150%) {
 /* page url */
 }
 
@@ -22,15 +22,19 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 /* page url */
 }
 
-@-moz-document url(gps_style.degitalweight_200-150%) {
+@-moz-document url_anyplace (sun_protection) { on　
 /* page url */
 }
 
-@-moz-document url(gps.degitalweight_150-0%) {
+@-moz-document url-prefix(gps_style.degitalweight_200-150%) {
 /* page url */
 }
 
-@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {
+@-moz-document url-prefix(gps.degitalweight_150-0%) {
+/* page url */
+}
+
+@-moz-document url-prefix(gps1.selfiephotoview_3-15%,timestamp,time) {
 /* page url */
 }
 
@@ -45,6 +49,15 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 @-moz-document url-prefix(mp3_users_100-1%) {
 /* http url start browsing page */
 }
+
+@-moz-document url-prefix(view_mode) { 
+
+/* http url start browsing page */
+}
+
+                                              
+font-weight: 500;
+font-weight: initials;
 
 font-weight: 500;
 font-weight: initials;
