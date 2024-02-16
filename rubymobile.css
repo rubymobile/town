@@ -1,17 +1,7 @@
 Github: github.com/GoogleCloudPlatform/golang-samples/
 install: go1.21.6.linux-amd64
 export PATH=$PATH:/usr/go/bin/MOBILE
-@-moz-document domain(gps.owndomain_350) {}
-@-moz-document url(gps.localz_30-50%) {}
-@-moz-document url(gps.selflocalized_100-150%) {}
-@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
-@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
-@-moz-document url(gps_style.degitalweight_200-150%) {}
-@-moz-document url(gps.degitalweight_150-0%) {}
-@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {}
-@-moz-document url-prefix(URL_users_100%) {}
-@-moz-document url-prefix(mp3_users_100-1%) {}
-@-moz-document url-prefix(mp3_users_100-1%) {}
+
 font-weight: 500;
 font-weight: initials;
   /*
@@ -96,14 +86,6 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 3) {
 /*here is for task_reminder*/　}
 
-/*albert = short work long life *//* much str *//*one day*/
-/*similarity*/
-/*1 km --------------------------> walk not == work shortly*//*a day*/
-
-/*Cover hearts*/ /*t_ink*/ /*tinkle wrincle*/
-/*in_shinai*/ /*initialized_itineraryz*/ /*/
-/**/
-/*for mini,nano_schim,e_schim*/
 @media only screen 
   and (min-device-width: 30px) 
   and (min-device-hight: 50px) 
