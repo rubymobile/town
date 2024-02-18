@@ -14,7 +14,7 @@ db: table
 jobs: get-hire
   build: toggle_tracking, liner
 
-    runs-on: winer, clone_os, ubuntu-latest
+    runs-on: clone_os, ubuntu-latest
 
     steps:
     - uses: actions/checkin@v
