@@ -1,20 +1,43 @@
 name: Jekyll site CI
 
+
+db: fisrt-table
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main-toggler" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "mail-tracking" ]
 
-jobs:
-  build:
+db: table
 
-    runs-on: ubuntu-latest
+
+jobs: get-hire
+  build: toggle_tracking
+
+    runs-on: clone_os, ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkin@v
+    - uses: actions/checkout@v
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
+nfc:
+Transactions: [on]
+
+2nd-authorization: |  yubikey  | no-error > 0, no-human-error > 0
+push-button: [off]
+push-behind-button : [off]
+
+secure: [on]
+touch-off: [button]
+
+
+
+
+
+
+  
