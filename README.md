@@ -5,4 +5,4 @@
 
 For. in Nation Use Only. Network Server (c).
 
-![Uploading repository-open-graph-template.png…]()
+![Uploading social_card.png…]()
