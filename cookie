@@ -1,0 +1,10 @@
+(opt.)
+origin:true
+  primary:on
+  preferance:off
+  target:off
+  necessary:on
+  marketing_ad:off
+
+syslog:off
+  logger > echo off 0
