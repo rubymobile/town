@@ -6,5 +6,8 @@ origin:true
   necessary:on
   marketing_ad:off
   syslog:off
+  phenomenon:off
+  target_whom:off
+  mou_chou_fff:off
 
 logger > echo off 0
