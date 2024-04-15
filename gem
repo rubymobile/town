@@ -1,7 +1,11 @@
+anonymouse_outsider : invalid
+
 syslog? > off
+
 folk : on
 knife : off
 spoon : on
 harsh : off
 logger > 0
+
 cockkiee ? -->> target_off
